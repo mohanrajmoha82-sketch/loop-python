@@ -1,4 +1,4 @@
-#tasks
+#pattern tasks
 #Q1
 # 1.haif pyramid
 
