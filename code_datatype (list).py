@@ -1,8 +1,9 @@
 """
-list => to accoss mulipic datatype and mutiple value a single variable mulable datatype
+list => to access multipic datatype and multiple value in a single variable. mulable datatype
 1.denoted by => squere bracked []
 2.Element => ordered element
-3.duplicate => it allows duplicats because it is access by using element postion left to ringt form 0(Zero)
+3.duplicate => it allows duplicats because it is access by using element its index postion left to ringt ->form 0(Zero)
+Right to left -> starts from 1(minus 1)
 """
 #cord data type
 a=10
